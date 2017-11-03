@@ -91,7 +91,7 @@ form input:hover {
 }
 form input:focus {
   background-color: white;
-  color: #53e3a6;
+  color: rgba(0, 0, 0, 0.65);
 }
 button {
   outline: 0;
